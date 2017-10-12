@@ -1,0 +1,3 @@
+A multithreaded web server like Tomcat, which handles HTTP requests and responses concurrently, run Java servlets and render dynamic web pages. Tested on ApacheBench and handled 100,000 requests with 1000 requests concurrently for HTML, CSS, images, gifs, cookies and sessions. 
+
+Supports HTTP 1.0, HTTP 1.1 clients.
